@@ -16,7 +16,7 @@
     "@sanity/types": "3.77.2",
     "@sanity/ui": "2.14.3",
     "@sanity/vision": "3",
-    "next": "15.0.0",
+    "next": "15.1.7",
     "next-sanity": "9.8.60",
     "react": "19.0.0",
     "react-dom": "^19.0.0",
